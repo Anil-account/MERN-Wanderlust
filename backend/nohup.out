@@ -1,0 +1,170 @@
+
+> start
+> node server.js
+
+Redis not configured, cache disabled.
+Database connected: mongodb://127.0.0.1:27017/wanderlust
+Server is running on port 5000
+
+> start
+> node server.js
+
+Redis not configured, cache disabled.
+Database connected: mongodb://127.0.0.1:27017/wanderlust
+node:events:486
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at Server.listen (node:net:2102:7)
+    at app.listen (/home/vagrant/projects/mern-projects/Demo-wanderlust/backend/node_modules/express/lib/application.js:635:24)
+    at file:///home/vagrant/projects/mern-projects/Demo-wanderlust/backend/server.js:14:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1976:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+
+Node.js v24.12.0
+
+> start
+> node server.js
+
+Redis not configured, cache disabled.
+Database connected: mongodb://127.0.0.1:27017/wanderlust
+node:events:486
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at Server.listen (node:net:2102:7)
+    at app.listen (/home/vagrant/projects/mern-projects/Demo-wanderlust/backend/node_modules/express/lib/application.js:635:24)
+    at file:///home/vagrant/projects/mern-projects/Demo-wanderlust/backend/server.js:14:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1976:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+
+Node.js v24.12.0
+
+> start
+> node server.js
+
+Redis not configured, cache disabled.
+Database connected: mongodb://127.0.0.1:27017/wanderlust
+node:events:486
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at Server.listen (node:net:2102:7)
+    at app.listen (/home/vagrant/projects/mern-projects/Demo-wanderlust/backend/node_modules/express/lib/application.js:635:24)
+    at file:///home/vagrant/projects/mern-projects/Demo-wanderlust/backend/server.js:14:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1976:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+
+Node.js v24.12.0
+
+> start
+> node server.js
+
+Redis not configured, cache disabled.
+Database connected: mongodb://127.0.0.1:27017/wanderlust
+node:events:486
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at Server.listen (node:net:2102:7)
+    at app.listen (/home/vagrant/projects/mern-projects/Demo-wanderlust/backend/node_modules/express/lib/application.js:635:24)
+    at file:///home/vagrant/projects/mern-projects/Demo-wanderlust/backend/server.js:14:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1976:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+
+Node.js v24.12.0
+
+> start
+> node server.js
+
+Redis not configured, cache disabled.
+connect ECONNREFUSED 127.0.0.1:27017
+
+> start
+> node server.js
+
+Redis not configured, cache disabled.
+connect ECONNREFUSED 127.0.0.1:27017
+
+> start
+> node server.js
+
+Redis not configured, cache disabled.
+Database connected: mongodb://127.0.0.1:27017/wanderlust
+Server is running on port 5000
+
+> start
+> node server.js
+
+Redis not configured, cache disabled.
+connect ECONNREFUSED 127.0.0.1:27017
+
+> start
+> node server.js
+
+Redis not configured, cache disabled.
+connect ECONNREFUSED 127.0.0.1:27017
+
+> start
+> node server.js
+
+Redis not configured, cache disabled.
+connect ECONNREFUSED 127.0.0.1:27017
+
+> start
+> node server.js
+
+Redis not configured, cache disabled.
+Database connected: mongodb://127.0.0.1:27017/wanderlust
+Server is running on port 5000
+
+> start
+> node server.js
+
+Redis not configured, cache disabled.
+Database connected: mongodb://127.0.0.1:27017/wanderlust
+Server is running on port 5000
